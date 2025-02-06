@@ -20,7 +20,7 @@ except Exception as e:
     print("Шрифты DejaVu не найдены, используется стандартный шрифт Helvetica.")
 
 API_TOKEN = '7586259594:AAH3WL9JBWwpocXR_0s3P5dPIE5Yc38TZmQ'
-ANTIPLAGIAT_API_KEY = '12025e688e01b9b32359f66fd9db1aed'
+ANTIPLAGIAT_API_KEY = 'cf76e22b031116d23676bdc1be279397'
 
 bot = telebot.TeleBot(API_TOKEN)
 user_data = {}
